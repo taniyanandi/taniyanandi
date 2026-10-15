@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Taniya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1> <p align="center"> <b>Backend Engineer @ MasterCard</b><br/> Building reliable, scalable systems that handle millions of transactions </p> <p align="center"> <a href="https://taniyanandiportfolio.netlify.app">Portfolio</a> &bull; <a href="https://www.linkedin.com/in/taniya-nandi">LinkedIn</a> &bull; <a href="https://medium.com/@taniyamantra22">Medium</a> &bull; <a href="https://algo-arena.vercel.app">Algo Arena</a> </p>
 A little about me
 
-I'm a backend engineer who loves building systems that just work, even when things go wrong. I spend my days working with distributed systems, event driven architectures, and payment platforms at MasterCard.
+I'm a backend engineer who loves building systems that just work, even when things go wrong. I spend my days working with distributed systems, event driven architectures and payment platforms at MasterCard.
 
 I believe great engineering is not about writing clever code. It's about writing code that your future self (and your teammates at 2 AM) can actually understand and debug.
 
